@@ -11,7 +11,7 @@ class CreateStuffTest extends EmptyTest {
 
   val stuff = new Stuff
   
-  // @Test
+  @Test
   def accessOverridenToString {
     assertEquals("Stuff", stuff.toString)
   }

@@ -16,3 +16,7 @@ TAGS
 *.iml          
 .idea
 *iml
+project/boot
+lib_managed
+src_managed
+target
